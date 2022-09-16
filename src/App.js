@@ -10,7 +10,7 @@ function App() {
         <h1>
           React Bulletin Board
         </h1>
-
+        <p> Test</p>
       </header>
       <main className='App-header'>
         <BulletinBoard/>
